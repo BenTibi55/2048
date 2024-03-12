@@ -1,0 +1,6 @@
+- compteur de score
+- transformer hgbd en zqsd
+- nombre de mvts
+-couleurs
+-musique de fou
+
